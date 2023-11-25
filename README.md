@@ -43,7 +43,7 @@
 
 |FE 최범관|FE 박경보|FE 유하은|FE 한상헌|
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/4ac018c7-f9f3-49c1-89e8-9e0523c69919.jpg" width="170" height="170"/> | <img src="https://github.com/kyeongboo-coder/kh/assets/126529523/29ee9d2f-859f-4a0f-8293-b453196c5cb6" width="170" height="170"/> | <img src="https://user-images.githubusercontent.com/124084624/249192266-dae00b28-0f85-40c2-a53c-6754c3a0ca30.png" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/9d2c1f67-82c0-4d91-8bf9-09be962044f4.jpg" width="170" height="170" /> |                                                          
+| <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/4ac018c7-f9f3-49c1-89e8-9e0523c69919.jpg" width="170" height="170"/> | <img src="https://github.com/kyeongbobak/kh/assets/126529523/29ee9d2f-859f-4a0f-8293-b453196c5cb6" width="170" height="170"/> | <img src="https://user-images.githubusercontent.com/124084624/249192266-dae00b28-0f85-40c2-a53c-6754c3a0ca30.png" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/9d2c1f67-82c0-4d91-8bf9-09be962044f4.jpg" width="170" height="170" /> |                                                          
 |  팀장 <br> <a href="https://github.com/KwanBeom"> 🔗 KwanBeom </a>| 팀원 <br> <a href="https://github.com/kyeongboo-coder">🔗 kyeongboo-coder </a> |팀원 <br> <a href="https://github.com/yonsinthefish">🔗yonainthefish </a>|팀원 <br> <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a> |
 팀 리딩 & 테크리딩 | 프로젝트 기획 & 진행, 문서화 | 로고 디자인 & 피그마제작  |유효성검사 & UI 개선|
 <br>
