@@ -1,32 +1,39 @@
 # 입9팔9 프로젝트 소개 _FrontEnd
+> 입9팔9는 스토어에 상품 등록과 판매가 가능한 소셜 네트워크 서비스(SNS)<br/>
+> 이 서비스는 단순히 상품 판매에서 그치는 것이 아니라 데일리룩 이외에도 자신의 취향을 공유할 수 있는 SNS 플랫폼<br/>
+<br/>
 
-## 배포
-- <a href="">🔗 [서비스링크](https://wear9sell9.netlify.app/) </a>
-- 🔒 서비스 이용을 위한 테스트 계정
-
-   - ID: 21test@test.com
-   - Password: 123456 
+- 배포 URL : <a href="">🔗 [서비스링크](https://wear9sell9.netlify.app/) </a>
+- 서비스 이용을 위한 테스트 계정<br/>
+ID: 21test@test.com<br/>
+Password: 123456
+<br/>
 
 ## 목차
-- [프로젝트 소개](프로젝트-소개) <br/>
-- [배포](배포)<br/>
-- [팀원 소개](팀원-소개-및-역할분담)<br/>
-- [개발 환경](개발-환경)  <br/>
+- [프로젝트 목적](프로젝트-목적) <br/>
+- [팀원 소개 및 역할 분담](팀원-소개-및-역할분담) <br/>
+- [개발 환경](개발-환경) <br/>
+- [브랜치 관리 전략](브랜치-관리-전략)  <br/>
+- [컨벤션](컨벤션)  <br/>
+- [폴더 구조](폴더-구조)  <br/>
 - [팀 협업 방식](팀-협업-방식)  <br/>
-- [구현 기능](구현-기능)<br/>
+- [구현 기능](구현-기능) <br/>
 - [개선 사항](개선-사항)  <br/>
 - [느낀점](느낀점)  <br/>
 <br/>
 
-## 프로젝트 소개
-> `입9팔9`는 데일리룩과 취향을 공유하는 SNS로 공유한 제품판매가 가능합니다. <br/> `입9팔9`는 세컨핸드 제품 사용과 지속가능한 패션을 지향합니다. 
-![이용가이드](https://github.com/kyeongbobak/ibgupalgu/assets/126529523/1c8022b7-ee77-4fce-bb92-a6e91a0c7b52)
-
-### 개발 기간
+## 개발 기간
 - 기간 : 2023년 6월 1일 ~ 2023년 6월 28일
 <img width="1155" alt="스크린샷 2023-06-26 오후 3 59 50" src="https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/assets/126529523/67960d65-6d1d-4a37-95b3-6ea16ee211bc">
- <br>
- <br>
+ <br/>
+ <br/>
+
+## 프로젝트 목적
+- React 라이브러리를 비롯한 다양한 프론트엔드 기술 스택을 경험하고 이해
+- 게시글 CURD 실습을 통한 데이터 관리의 기초를 이해하고 실습
+- 실시간 사용자들 간의 소통을 가능하게 하는 피드, 좋아요, 댓글 메세지 기능 구현하여 동적 웹 애플리케이션의 기본 이해
+- 사용자 경험을 향상시키는 방법 학습
+<br/>
 
 ## 팀원 소개 및 역할 분담
 
@@ -85,93 +92,101 @@
 
 ## 개발 환경
 
-### [기술스택]
-|**언어**|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>|
-|**라이브러리**|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>  |
+|**언어**|<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  |
 | :---| :--- |
-|**백엔드**|[멋쟁이 사자처럼에서 제공받은 API 명세](https://www.notion.so/16312a05a4c7456db8073785be95cda6)|
-|**도구 및 라이브러리** | <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white"/>  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>    
-|**협업 및 프로젝트 관리** | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
-|**디자인** | [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>](https://www.figma.com/file/OFzYcxwkMzX9U9ljo06ow8/21%EC%A1%B0-%ED%99%94%EC%9D%B4%EB%9D%B5!!!!?type=design&node-id=27-1212&mode=design&t=fXS6bC8hoYKtFX1v-0)   |
-  <br> 
+|**라이브러리**|<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>|
+|**통합 개발 환경**|<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>|
+|**협업 및 커뮤니케이션 도구** | <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>|
+|**버전 관리 시스템** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>|
+|**디자인** | <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>|
+|**외부 API**|[감귤마켓 API 명세](https://www.notion.so/16312a05a4c7456db8073785be95cda6)|
+<br/> 
+
+## 브랜치 관리 전략
+> Git Flow
+<br/>
+
+<img width="572" alt="" src="https://github.com/kyeongbobak/sopshop/assets/126529523/cb006ff7-acaa-4a26-9a93-b774b403b43e">
+<br/> 
 
 ## 컨벤션
 
-### [Git Flow]
-- ### MAIN/FEATURE
-<img width="572" alt="스크린샷 2023-11-29 오후 6 43 12" src="https://github.com/kyeongbobak/ibgupalgu/assets/126529523/dfee3a83-920c-454d-beab-bf1b01fc25b6">
+### 커밋 컨벤션
+> Udacity
 
-<br>
+### 메세지 구조
+  ```
+  type : subject
 
-### [커밋컨벤션]
-```
-feat        : 기능 (새로운 기능)  
-fix         : 버그 (버그 수정)  
-refactor    : 리팩토링  
-design      : CSS 등 사용자 UI 디자인 변경  
-comment     : 필요한 주석 추가 및 변경  
-style       : 스타일 (코드 형식, 세미콜론 추가: 비즈니스 로직에 변경 없음)  
-docs        : 문서 수정 (문서 추가, 수정, 삭제, README)  
-test        : 테스트 (테스트 코드 추가, 수정, 삭제: 비즈니스 로직에 변경 없음)  
-chore       : 기타 변경사항 (빌드 스크립트 수정, assets, 패키지 매니저 등)  
-init        : 초기 생성  
-rename      : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 한 경우  
-remove      : 파일을 삭제하는 작업만 수행한 경우
-```
-<br>
+  body
 
-## 폴더구조
+  footer
+  ```
+### type
+    - feat: 새로운 기능
+    - fix: 버그 수정
+    - docs: 문서 변경
+    - style: EOL, 세미콜론 등 코드에 대한 변경이 아닌 컨벤션에 관련된 변경
+    - refactor: 프로덕션 코드 리팩토링
+    - test: 테스트 추가, 리팩토링 테스트 ( 프로덕션 코드 변경 없음 )
+    - chore: 빌드, 릴리즈, 설정 등의 변경 ( 프로덕션 코드 변경 없음 )
+<br/>   
+
+### 코드 컨벤션
+- ESLint와 Prettier를 사용하여 일관된 스타일 준수
+- 코드 포맷은 Prettier가 자동으로 처리
+<br/>
+
+## 폴더 구조
 ```
  입9팔9
-├──🗃️ public
-└──🗃️ src
-    ├──🗂️ assets/images
-    ├──🗂️ components
-        ├──📁 Button
-        ├──📁 FollowButton
-        ├──📁 FollowItem
-        ├──📁 Footer
-        ├──📁 Header
-        ├──📁 HeaderMenu
-        ├──📁 Modal
-        ├──📁 Post
-        ├──📁 Products
-        ├──📁 Profile
-        ├──📁 ShareModal
-        ├──📁 UserList
-    ├──🗂️ contexts/ModalContext
-    ├──🗂️ hooks
-    ├──🗂️ pages
-        ├──📁 404
-        ├──📁 FollowList
-        ├──📁 HomeFeed
-        ├──📁 IntroLogin
-        ├──📁 Login
-        ├──📁 Post
-        ├──📁 PostDetail
-        ├──📁 PostUpload
-        ├──📁 ProductDetail
-        ├──📁 ProductList
-        ├──📁 Profile
-        ├──📁 ProfileSettings
-        ├──📁 Search
-        ├──📁 SignUp
-        ├──📁 Splash
-        ├──📁 UploadProduct
-    ├──🗂️ routes
-    ├──🗂️ style
-    └──🗂️ utils
+├── public
+└── src
+    ├── assets/images
+    ├── components
+        ├── Button
+        ├── FollowButton
+        ├── FollowItem
+        ├── Footer
+        ├── Header
+        ├── HeaderMenu
+        ├── Modal
+        ├── Post
+        ├── Products
+        ├── Profile
+        ├── ShareModal
+        ├── UserList
+    ├── contexts/ModalContext
+    ├── hooks
+    ├── pages
+        ├── 404
+        ├── FollowList
+        ├── HomeFeed
+        ├── IntroLogin
+        ├── Login
+        ├── Post
+        ├── PostDetail
+        ├── PostUpload
+        ├── ProductDetail
+        ├── ProductList
+        ├── Profile
+        ├── ProfileSettings
+        ├── Search
+        ├── SignUp
+        ├── Splash
+        ├── UploadProduct
+    ├── routes
+    ├── style
+    └── utils
 ```
 <br/>
 
 ## 팀 협업 방식
-- GitHub issue : 프로젝트 작업 개선사항 및 추가 될 기능을 기록하여 작업일정을 팀원들과 공유했습니다. 
-- 데일리스크럼 : 매일 9시 ,17 금일 작업 내용과 진행 상황을 공유했습니다.
-- GitHub wiki : 팀내 공유되야 하는 정보와 회의내용을 기록하였습니다.
-- Live share : VSC 의 Live share를 사용하여 더 나은 코드를 위한 토론을 진행하였습니다.
-- 오프라인 회의 : 정기 오프라인 회의를 통해 진행상황을 공유하며 일정조율 및 작업방향을 맞춰가는 시간을 가졌습니다
-
-📌 [GitHub Wiki](https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%9C-%ED%9A%8C%EC%9D%98%EB%A1%9D)
+- 매일 9시와 17시에 금일 작업 내용과 진행 상황을 공유
+- GitHub Issue를 통해 프로젝트 작업 개선사항 및 추가 될 기능을 기록하여 작업일정을 팀원들과 공유
+- [GitHub Wiki](https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%9C-%ED%9A%8C%EC%9D%98%EB%A1%9D) 을 통해 팀 내 공유되야 하는 정보와 회의내용을 기록
+- Live share를 통해 VSC 의 Live share를 사용하여 더 나은 코드를 위한 토론을 진행
+- 정기 오프라인 회의를 통해 진행상황을 공유하며 일정조율 및 작업방향을 맞춰가는 시간을 마련
 <br/>
 
 ## 구현 기능
@@ -204,14 +219,13 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
   <br/>
   
 ## 개선 사항
-
-- 추후 확장 및 유지 보수를 고려해 `재사용되는 컴포넌트`는 별도로 common 폴더에서 관리하고 있습니다. 
-- 효율적인 작업상황을 고려하여 `반복되는 함수`는 utils 폴더로 따로 분리하여 사용했습니다.  
-- 이후 리팩토링시 진행 예정인 다크모드, 반응형 작업을 위해 `변수컬러와, rem 단위`를 사용하여 작업에 진행했습니다. 
-- 사용자 경험을 고려하여 `UX 디자인 제작` (Footer를 통해 화면에서 바로 접근하기 어려운 페이지를 라우팅 하였습니다.)
-- `로딩 애니메이션`을 추가하여 사용자가 로딩 상태를 인지할 수 있도록 했습니다.
-- `useParams`를 이용해 사용자의 아이디를 받아와 정보를 띄워줍니다. 내 프로필에서는 상품 등록 및 프로필 수정 페이지로 이동할 수 있는 버튼이 나타나고, 다른 유저의 프로필에서는 팔로우 버튼이 나타납니다.
-- 댓글 모달 클릭시 내 댓글이면 삭제, 다른 유저의 댓글이면 신고 기능을 사용할 수 있습니다.
+- 추후 확장 및 유지 보수를 고려해 재사용되는 컴포넌트는 별도로 common 폴더에서 관리
+- 효율적인 작업상황을 고려하여 반복되는 함수는 utils 폴더로 따로 분리하여 사용
+- 이후 리팩토링시 진행 예정인 다크모드, 반응형 작업을 위해 변수컬러와, rem 단위를 사용하여 작업에 진행
+- 사용자 경험을 고려하여 UX 디자인 제작 (Footer를 통해 화면에서 바로 접근하기 어려운 페이지를 라우팅)
+- 로딩 애니메이션을 추가하여 사용자가 로딩 상태를 인지할 수 있도록 기능 구현
+- useParams를 이용해 사용자의 아이디를 받아와 정보를 띄워주고 내 프로필에서는 상품 등록 및 프로필 수정 페이지로 이동할 수 있는 버튼이 나타나고, 다른 유저의 프로필에서는 팔로우 버튼이 나타나도록 기능 구현
+- 댓글 모달 클릭시 내 댓글이면 삭제, 다른 유저의 댓글이면 신고 기능을 사용할 수 있도록 기능 구현
 <br/>
 
 ## 느낀점 
