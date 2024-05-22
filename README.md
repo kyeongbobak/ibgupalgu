@@ -3,7 +3,7 @@
 > 이 서비스는 단순히 상품 판매에서 그치는 것이 아니라 데일리룩 이외에도 자신의 취향을 공유할 수 있는 SNS 플랫폼<br/>
 <br/>
 
-- 배포 URL : <a href="">🔗 [서비스링크](https://wear9sell9.netlify.app/) </a>
+- 배포 URL : <a href="">🔗 [입9팔9](https://wear9sell9.netlify.app/) </a>
 - 서비스 이용을 위한 테스트 계정<br/>
 ID: 21test@test.com<br/>
 Password: 123456
