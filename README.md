@@ -184,7 +184,7 @@ Password: 123456
 - 매일 9시와 17시에 금일 작업 내용과 진행 상황을 공유
 - GitHub Issue를 통해 프로젝트 작업 개선사항 및 추가 될 기능을 기록하여 작업일정을 팀원들과 공유
 - [GitHub Wiki](https://github.com/FRONTENDSCHOOL5/final-21-WeMet21-Already29/wiki/%F0%9F%93%9C-%ED%9A%8C%EC%9D%98%EB%A1%9D) 을 통해 팀 내 공유되야 하는 정보와 회의내용을 기록
-- Live share를 통해 VSC 의 Live share를 사용하여 더 나은 코드를 위한 토론을 진행
+- VSC의 Live share를 사용하여 더 나은 코드를 위한 토론을 진행
 - 정기 오프라인 회의를 통해 진행상황을 공유하며 일정조율 및 작업방향을 맞춰가는 시간을 마련
 <br/>
 
