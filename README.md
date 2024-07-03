@@ -110,10 +110,9 @@ Password: 123456
 
 ## 컨벤션
 
-### 커밋 컨벤션
-> Udacity
+### 커밋컨벤션 : Udacity
 
-### 메세지 구조
+#### 메세지 구조
   ```
   type : subject
 
@@ -121,7 +120,7 @@ Password: 123456
 
   footer
   ```
-### type
+#### type
     - feat: 새로운 기능
     - fix: 버그 수정
     - docs: 문서 변경
